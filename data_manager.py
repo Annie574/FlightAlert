@@ -11,7 +11,7 @@ USERS_ENDPOINT = os.getenv("USERS_ENDPOINT")
 class DataManager:
     """This class is responsible for talking to the Google Sheet."""
     def __init__(self):
-        self._token = os.getenv("TOKEN")
+        self._token = os.getenv("SHEETY_TOKEN")
         self.header = {"Authorization": f"Bearer {self._token}"}
         self.destination_data = []
         self.users_data = []
