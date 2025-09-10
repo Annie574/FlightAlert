@@ -11,7 +11,7 @@ VIRTUAL_NUMBER: Viratual number generated in TWILIO service
 
 PERSONAL_NUMBER: Your real phone number
 
-SHEETY_TOKEN: Token from Sheety service used for authorization to get access the Google Worksheet created for FLightAlert
+SHEETY_TOKEN: Token from Sheety service used for authorization to get access the Google Worksheet created for FLightAlert (https://sheety.co/)
 
 PRICES_ENDPOINT: Endpoint (taken from Sheety service) to prices sheet
 
