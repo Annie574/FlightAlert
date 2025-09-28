@@ -1,7 +1,9 @@
+This project is part of _100 Days of Code - The Complete Python Pro Bootcamp_ Udemy course by Angela Yu.<br />
+Code published here is entirely written by me as a part of homework.
+
 # FlightAlert
 
-This project is part of _100 Days of Code - The Complete Python Pro Bootcamp_ Udemy course by Angela Yu.
-Code published here is entirely written by me as a part of homework.
+Program sending alert when cheap flight is available.
 
 ## Before start
 Create your own .env file with your own links/passwords/etc.
@@ -14,7 +16,7 @@ VIRTUAL_NUMBER: Viratual number generated in TWILIO service
 
 PERSONAL_NUMBER: Your real phone number
 
-SHEETY_TOKEN: Token from Sheety service used for authorization to get access the Google Worksheet created for FLightAlert (https://sheety.co/)
+SHEETY_TOKEN: Token from Sheety service used for authorization to get access the Google Worksheet created for FlightAlert (https://sheety.co/)
 
 PRICES_ENDPOINT: Endpoint (taken from Sheety service) to prices sheet
 
