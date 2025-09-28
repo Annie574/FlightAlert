@@ -3,7 +3,7 @@ Code published here is entirely written by me as a part of homework.
 
 # FlightAlert
 
-Program sending alert when cheap flight is available.
+Program sends alert upon finding cheap flight.
 
 ## Before start
 Create your own .env file with your own links/passwords/etc.
